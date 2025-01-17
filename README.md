@@ -1,4 +1,4 @@
-A simple python program to bulk convert images in a file.
+A simple python program to bulk convert all images of one file type in a folder to another. Does not delete original images.
 
 ...
 
